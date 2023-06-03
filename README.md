@@ -12,7 +12,7 @@ La Cava, William, et al. **Contemporary symbolic regression methods and their re
 
 H. Zhang, A. Zhou, Q. Chen, B. Xue and M. Zhang, **SR-Forest: A Genetic Programming based Heterogeneous Ensemble Learning Method**, in IEEE Transactions on Evolutionary Computation, doi: 10.1109/TEVC.2023.3243172.[paper](https://ieeexplore.ieee.org/document/10040601) [code](https://github.com/hengzhe-zhang/EvolutionaryForest)
 
-William La Cava, Tilak Raj Singh, James Taggart, Srinivas Suri, and Jason H. Moore. **Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations**, ICLR, 2019.[paper]((https://arxiv.org/abs/1807.00981)) [code]((https://github.com/cavalab/feat))
+William La Cava, Tilak Raj Singh, James Taggart, Srinivas Suri, and Jason H. Moore. **Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations**, ICLR, 2019.[paper](https://arxiv.org/abs/1807.00981) [code]((https://github.com/cavalab/feat))
 
 Marco Virgolin, Tanja Alderliesten, Cees Witteveen, and Peter A N Bosman. **Improving model-based genetic programming for symbolic regression of small expressions**. Evolutionary Computation, page tba, 2020.[paper](https://arxiv.org/abs/1904.02050) [code](https://github.com/marcovirgolin/GP-GOMEA/)
 
