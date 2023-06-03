@@ -14,7 +14,7 @@ H. Zhang, A. Zhou, Q. Chen, B. Xue and M. Zhang, **SR-Forest: A Genetic Programm
 
 William La Cava, Tilak Raj Singh, James Taggart, Srinivas Suri, and Jason H. Moore. **Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations**, ICLR, 2019.[paper]((https://arxiv.org/abs/1807.00981)) [code]((https://github.com/cavalab/feat))
 
-Marco Virgolin, Tanja Alderliesten, Cees Witteveen, and Peter A N Bosman. **Improving model-based genetic programming for symbolic regression of small expressions**. Evolutionary Computation, page tba, 2020.[paper](https://arxiv.org/abs/1904.02050) [code]((https://github.com/marcovirgolin/GP-GOMEA/))
+Marco Virgolin, Tanja Alderliesten, Cees Witteveen, and Peter A N Bosman. **Improving model-based genetic programming for symbolic regression of small expressions**. Evolutionary Computation, page tba, 2020.[paper](https://arxiv.org/abs/1904.02050) [code](https://github.com/marcovirgolin/GP-GOMEA/)
 
 F. O. de Franca and G. S. I. Aldeia. **Interaction-Transformation Evolutionary Algorithm for Symbolic Regression**. Evolutionary Computation, pages 1–25, December 2020. ISSN 1063-6560. doi: 10.1162/ evco_a_00285.[paper](https://arxiv.org/abs/1902.03983) [code](https://arxiv.org/abs/1902.03983)
 
